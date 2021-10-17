@@ -1,10 +1,11 @@
+
 ![quemiras](https://c.tenor.com/EPezFYu-f1IAAAAi/welcome-vocaloid.gifg) <br/>
 
 ### Descripción sobre mi 🌙
 
 - Discord bot developer! ✔
 - Actualmente estudiando programación :D. ✔
-- El proyecto en que actualmente trabajo es viernes ✔ <br />
+- El proyecto en que actualmente trabajo es Kiubi Bot ✔ <br />
 
 ### Languages Y Herramientas ⚙
 
@@ -21,4 +22,5 @@
 
 <p align="center">
 <a href="https://discord.gg/dJbE24VWAc">
-    <i
+    <img src="https://c.tenor.com/jckQWDcU0NEAAAAi/discord-loading-icon.gif" alt="Discord" width="80"/>
+  </a>
