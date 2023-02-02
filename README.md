@@ -4,8 +4,8 @@
 ### Descripción sobre mi 🌙
 
 - Discord bot developer! ✔
-- Actualmente estudiando programación :D. ✔
-- El proyecto en que actualmente trabajo es Kiubi Bot ✔ <br />
+- Actualmente estudiando ingenieria en sistemas. ✔
+- El proyecto en que actualmente trabajo es Dream ✔ <br />
 
 ### Languages Y Herramientas ⚙
 
